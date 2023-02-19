@@ -1,6 +1,6 @@
 ﻿  nose.cpp
 C:\Users\Sistema\source\repos\nose\nose\nose.cpp(19,17): warning C4838: la conversión de 'int' en 'SHORT' requiere una conversión de restricción
 C:\Users\Sistema\source\repos\nose\nose\nose.cpp(19,20): warning C4838: la conversión de 'int' en 'SHORT' requiere una conversión de restricción
-C:\Users\Sistema\source\repos\nose\nose\nose.cpp(40,21): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Users\Sistema\source\repos\nose\nose\nose.cpp(43,21): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
   AssemblyInfo.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
   nose.vcxproj -> C:\Users\Sistema\source\repos\nose\x64\Debug\nose.exe

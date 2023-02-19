@@ -19,7 +19,10 @@ void gotoxy(int x, int y)
     COORD c = { x, y };
     SetConsoleCursorPosition(h, c);
 }
-
+void xd()
+{
+    cout << "RAAA";
+}
 int menu(const char* titulo,const  char* opciones[], int n)
 {   
     int opcionSeleccionada = 1;
