@@ -1,0 +1,2 @@
+C:\Users\Sistema\source\repos\nose\nose\x64\Debug\nose.vcxproj.AssemblyReference.cache
+C:\Users\Sistema\source\repos\nose\nose\x64\Debug\nose.vcxproj.SuggestedBindingRedirects.cache
